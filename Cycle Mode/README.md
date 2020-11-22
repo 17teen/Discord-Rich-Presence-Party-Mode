@@ -79,3 +79,30 @@
 ﹒[Discord Server](https://discord.gg/JH9h9uv)
 ﹒[Telegram](https://t.me/real7teen)
 ﹒[Steam](https://steamcommunity.com/id/seven777teen/)
+
+# Tip
+
+***The status will change every 10 seconds to change this do the following:***
+
+*Edit either 'cycle.js' or  'cycleparty.js' with notepad or a code editor from lines:*
+
+cycle.js : line 40
+cycleparty.js : line 50
+
+```ruby
+// Using party cycle mode as an example
+rpc.setActivity({
+        details: `${Detail}`,
+        state: `${State}`,
+        startTimestamp: new Date(),
+        largeImageKey: `${LargeIK}`,
+        largeImageText: `${LargeIT}`,
+        smallImageKey: `${SmallIK}`,
+        smallImageText: `${SmallIT}`,
+        partySize: partyS,
+        partyMax: partyM,
+        joinSecret: `${partySecret}`
+    });
+
+}, 10000) // 10 Seconds Change this | Convert seconds to millisecond
+```
