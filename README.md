@@ -24,7 +24,7 @@
 8. Name your images before saving.
 9. After everything is saved you are done.
 
-**Example**
+## Example
 
 ![app](https://cdn.discordapp.com/attachments/777194237179461652/780081340556115998/unknown.png)
 
