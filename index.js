@@ -2,6 +2,8 @@
 // Discord: 7teen#1464
 // https://github.com/Vissage
 
+// Discord Rich Presence
+
 const RPC = require("discord-rpc");
 const browser = typeof window !== 'undefined';
 const rpc = new RPC.Client({ transport: browser ? 'websocket' : 'ipc' });
