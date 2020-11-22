@@ -91,6 +91,8 @@
 
 *Made by 7teen*
 
+*Party Mode Available*
+
 ## Contact Me
 
 ﹒[Discord Server](https://discord.gg/JH9h9uv)
