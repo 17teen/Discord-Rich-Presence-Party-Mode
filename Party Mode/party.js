@@ -71,7 +71,7 @@ rpc.on("ready", () => {
                                                                                                                                               
 `;
 
-console.log(chalk.bgMagentaBright(title))
+console.log(chalk.magenta(title))
 
 });
 
