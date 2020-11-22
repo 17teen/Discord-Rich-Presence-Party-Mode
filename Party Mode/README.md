@@ -2,7 +2,9 @@
 
 ![result](https://media.discordapp.net/attachments/777194237179461652/780151479750361119/unknown.png)
 
-**Follow all the normal steps**
+## Follow All The Previous Steps
+
+﹒[Walkthrough](https://github.com/17teen/Discord-Rich-Presence-Party-Mode#set-up-1)
 
 # Party Mode: Set-Up 1
 
