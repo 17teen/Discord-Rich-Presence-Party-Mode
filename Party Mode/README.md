@@ -25,3 +25,18 @@
 
 1. Discord Desktop App must be open and toggle the display current game on if off.
 2. Run the 'Party Mode' file.
+
+# About
+
+*This is a [Vissage production](https://github.com/Vissage)*
+
+*Simple, slightly more efficient Rich Presence tool to look cool in front of your friends*
+
+*Made by 7teen*
+
+## Contact Me
+
+﹒[Discord Server](https://discord.gg/JH9h9uv)
+﹒[Telegram](https://t.me/real7teen)
+﹒[Steam](https://steamcommunity.com/id/seven777teen/)
+
