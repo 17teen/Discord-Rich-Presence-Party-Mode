@@ -1,6 +1,6 @@
 # Discord Rich Presence: Party Mode by 7teen
 
-![result](https://cdn.discordapp.com/attachments/773670296967577600/780129019462025239/unknown.png)
+![result](https://cdn.discordapp.com/attachments/773670296967577600/780109271027023912/unknown.png)
 
 **Follow all the normal steps**
 
