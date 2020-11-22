@@ -11,5 +11,6 @@ pause
 cls
 node done.js
 pause
+cls
 exit
 goto :top
