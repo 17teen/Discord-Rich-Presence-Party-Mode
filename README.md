@@ -6,7 +6,7 @@
 
 # Requirements Before Set-up:
 
-1. Node.JS installed.
+1. [Node.JS](https://nodejs.org/en/) installed.
 2. Code Editor: VSC(recommended), Pycharm, Sublime, Atom etc.
 3. Discord Desktop Application.
 
