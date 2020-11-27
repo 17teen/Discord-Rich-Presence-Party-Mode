@@ -31,7 +31,7 @@
 
 ![settings](https://cdn.discordapp.com/attachments/777194237179461652/780203530748559370/unknown.png)
 
-- To add another line to the following: 
+- To add another line, do the following: 
 ```ruby
 
 // before 
@@ -76,6 +76,7 @@
 
 ## Contact Me
 
+﹒[Discord](https://discord.com/users/709827684888215582)
 ﹒[Discord Server](https://discord.gg/JH9h9uv)
 ﹒[Telegram](https://t.me/real7teen)
 ﹒[Steam](https://steamcommunity.com/id/seven777teen/)
