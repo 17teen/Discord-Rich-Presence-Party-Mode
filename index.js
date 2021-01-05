@@ -1,5 +1,5 @@
 // https://github.com/17teen
-// Discord: 7teen#1464
+// Discord: thug angel#3868
 // https://github.com/Vissage
 
 // Discord Rich Presence
@@ -42,7 +42,7 @@ rpc.on("ready", () => {
           ░░░░██▓▓▓▓▓▓████▒▒                                  
         ░░░░░░██▓▓▒▒▓▓▓▓▓▓▓▓   17                               
         ░░░░░░░░▒▒▒▒▒▒▓▓████                                  
-      ░░░░░░░░░░▒▒▒▒▒▒▒▒▒▒▒▒             Made by 7teen#1464                        
+      ░░░░░░░░░░▒▒▒▒▒▒▒▒▒▒▒▒             Made by thug angel#3868                        
       ░░░░░░▒▒▒▒▓▓▒▒░░                                        
     ░░░░▒▒▒▒▒▒▒▒▒▒                                            
     ░░░░▒▒▒▒▒▒▒▒                                          
