@@ -1,5 +1,5 @@
 // https://github.com/17teen
-// Discord: 7teen#1464
+// Discord: thug angel#3868
 // https://github.com/Vissage
 
 const RPC = require("discord-rpc");
