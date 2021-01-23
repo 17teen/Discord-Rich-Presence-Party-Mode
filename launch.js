@@ -16,5 +16,5 @@ const title = String.raw`
 console.log(title)
 
 console.log(``);
-console.log(`                                          Made by thug angel#3868`)
+console.log(`                                          Made by 7teen#3868`)
 console.log(``);
