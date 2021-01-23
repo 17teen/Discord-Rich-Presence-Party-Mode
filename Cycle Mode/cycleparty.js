@@ -1,5 +1,5 @@
 // https://github.com/17teen
-// Discord: thug angel#3868
+// Discord: 7teen#3868
 // https://github.com/Vissage
 
 const RPC = require("discord-rpc");
@@ -63,7 +63,7 @@ rpc.on("ready", () => {
           ░░░░██▓▓▓▓▓▓████▒▒                                  
         ░░░░░░██▓▓▒▒▓▓▓▓▓▓▓▓   17                               
         ░░░░░░░░▒▒▒▒▒▒▓▓████                                  
-      ░░░░░░░░░░▒▒▒▒▒▒▒▒▒▒▒▒             Made by 7teen#1464                        
+      ░░░░░░░░░░▒▒▒▒▒▒▒▒▒▒▒▒             Made by 7teen#3868                       
       ░░░░░░▒▒▒▒▓▓▒▒░░                                        
     ░░░░▒▒▒▒▒▒▒▒▒▒                                            
     ░░░░▒▒▒▒▒▒▒▒                                          
