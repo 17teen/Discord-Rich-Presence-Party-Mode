@@ -4,6 +4,6 @@ while true;
 	do
 	clear;
 	node index.js;
-	read -s -n 1 -p "Press any key to continue. . . "
+	read -s -n 1 -p "Press any key to continue. . . ";
 	done;
 done;
