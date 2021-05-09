@@ -99,7 +99,7 @@ Mac/Linux Compatability: [@meow](https://github.com/meow6969)
 
 ## Contact Me
 
-﹒[Discord Server](https://discord.gg/JH9h9uv)
+﹒[Discord Server](https://discord.gg/4nSYqZ8KAA)
 ﹒[Telegram](https://t.me/real7teen)
 ﹒[Steam](https://steamcommunity.com/id/seven777teen/)
 
